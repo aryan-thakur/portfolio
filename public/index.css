@@ -29,6 +29,10 @@ code {
   .secImg {
     display: inline !important;
   }
+
+  .linkStack {
+    display: none;
+  }
 }
 
 .mainDrop {

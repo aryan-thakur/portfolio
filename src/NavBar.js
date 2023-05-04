@@ -49,6 +49,7 @@ const NavigationBar = () => {
 
 
       <Box
+        className="linkStack"
         display={{ sm: "none", md: "flex" }}
         width={{ sm: "", md: "auto" }}
         alignItems="center"
