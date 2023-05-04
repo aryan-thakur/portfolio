@@ -1,0 +1,26 @@
+[
+    {
+        "company": "KPMG LLP",
+        "position": "Cyber Security Consultant",
+        "range": "May 2022 - Dec 2022",
+        "desc": "My first 4 months in the firm initially revolved around trainings: KPMG corporate compliance courses and Microsoft Azure courses. The Azure training was integral to the work that would soon follow. After my trainings concluded, around the second month of my term with the company, I was introduced to my 5-person team and told that I would be working on developing a new KPMG product. The product I was going to develop was an MSS SIEM (Managed Security Systems, Security Information & Event Management) and the main portion of this development would be dev-ops heavy on the Microsoft Azure Platform. I began work I had never previously done, I began provisioning Virtual Machines installing services, linking machines together, configuring and sending logs from firewalls to these machines and so on. There was a lot of interesting and crucial work and I had accessible help every step of the way, whenever I needed it. Towards the end of my term I was designated scripting work in Python, which is something I have always been familiar with and executed the scripting to perfection. Every task I complete had to be documented, and creating documentation files around tasks and code made up a great chunk of my term at KPMG as well."
+    },
+    {
+        "company": "Royal Bank of Canada",
+        "position": "Cyber Security Analyst",
+        "range": "Jan 2022 - Apr 2022",
+        "desc": "Being in the Cyber Security branch of RBC, every team and individual aimed to improve the enterprise’s security with their products, services and projects. I worked on the Firewall Rule Accreditation Project, that aimed to clean up unused firewall rules in the RBC firewall policies, to basically tie up loose ends and therefore tighten security based on the Principle of Least Privelege. I recieved change requests, and edited the firewall rules of vendors such as Palo Alto and Check Point. Other times, I verified if the changes were made by properly by automation scripts. Another part of my work at the firm was Risk Assessment. The way this worked was fairly simple: a lot of data and metadata was collected for new rule requests from the rule requesters. Through automation scripts data was fetched from internal RBC data platforms about the risk and validity of this possible new rule. Using these results and analyzing the rule myself, through security training and research I made an informed decision on whether to accept this rule and create it in the firewalls or request for a re-submission."
+    },
+    {
+        "company": "University of Toronto",
+        "position": "Lead Teaching Assistant",
+        "range": "Jan 2022 - present",
+        "desc": "I have been appointed as the Lead TA for the Operating Systems (CSCC69) course multiple times. One of the main responsibilities of being the Lead TA is that of leading the team of teaching assistants; instructing them on how to grade assignments, helping them organize weekly tutorials and giving them guidance whenever required. Another major requirement in this position is being decisive and being able to make crucial decisions involving grading, marking schemes and tutorial content, especially when immediate action is required. Some other responsibilites were: some of my responsibilities were: reviewing tutorial material and conducting the tutorials, conducting coding assignments for the class including setting up the online applications, grading the assignments using auto grading scripts and performing quality checks by hand, grading the logical questions on the assignments, being in-charge of remark requests, answering questions on student forums, guiding students through the assignments, and conducting office hours to answer student’s questions."
+    },
+    {
+        "company": "LIVE (Club)",
+        "position": "Vice President of Engineering",
+        "range": "May 2022 - Dec 2022",
+        "desc": "LIVE Competition is a yearly business case competition organized by the LIVE club, University of Toronto Scarborough. Being elected as the VP of Engineering, I was in charge of maintaining and developing Blueboard further. Blueboard is the web application developed in-house by LIVE members wehre the case competition is wholly conducted. My responsibilities included: recruiting a team of software developers, leading this team, being the team sprint leader and change approver, co-ordinating with the LIVE board of directors, being a part of the coding required to maintain and develop the web application and many more."
+    }
+]

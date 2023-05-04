@@ -1,0 +1,79 @@
+[
+    {
+        "title": "Dotcoin",
+        "tags": ["Web3", "Solo"],
+        "desc": "A simple version of Bitcoin. Features include coin mining and a functional UTxO design.",
+        "height": "200",
+        "tech": ["Python", "Flask", "PyNaCl", "AngularJS"],
+        "link": ""
+    },
+
+    {
+        "title": "Asteroid Shooter",
+        "tags": ["Assembly", "Solo"],
+        "desc": "A simple, functional game created using the MIPS assembly language. Points are awarded for shooting down obstacles or near-missing them and you have 3 lives (collisions) before the game ends.",
+        "height": "300",
+        "tech": ["MIPS", "MARS"],
+        "link": "https://www.youtube.com/embed/qlywsafVgX8"
+    },
+
+    {
+        "title": "Modelo",
+        "tags": ["WebApp", "Solo"],
+        "desc": "A full-stack, single page application that connects models and actors to casting organizations.",
+        "height": "200",
+        "tech": ["PHP", "AngularJS"]
+    },
+
+    {   
+        "title": "InSight",
+        "tags": ["WebApp", "Team"],
+        "desc": "Created for the 'Hack The North' hackathon where users can upload an image, get a score regarding how successful the image would be on social media and recommendations on how to improve the image, and finally be able to post to multiple social medias through the app interface itself.",
+        "height": "300",
+        "tech": ["NodeJS", "AngularJS", "Python", "APIs"],
+        "link": "https://www.youtube.com/embed/AreZs5q1Gtc"
+    },
+
+    {
+        "title": "Stablecoin",
+        "tags": ["Web3", "Team"],
+        "desc": "Conducted research with a team on popular stablecoins and the algorithms behind them. Put the research to use by creating a concept, functional stablecoin.",
+        "height": "250",
+        "tech": ["Solidity", "EthersJS", "Python", "Hardhat", "Mocha", "Chai", "Waffle", "React", "Ethereum"]
+    },
+
+    {
+        "title": "Pintos",
+        "tags": ["Operating System", "Solo"],
+        "desc": "Built a simple unix-based operating system using skeleton code as part of a college project. Features included developing kernel threads, system calls, virtual memory, and a file system.",
+        "height": "300",
+        "tech": ["C", "x86"]
+
+    },
+
+    {
+        "title": "Fund Management",
+        "tags": ["Web3", "Solo"],
+        "desc": "Created a fund management application using smart contracts on the Ethereum blockchain. Incorporated a variety of useful features.",
+        "height": "250",
+        "tech": ["Solidity", "EthersJS",  "Hardhat", "Mocha", "Chai", "Waffle", "React", "Ethereum", "Goerli Testnet"]
+    },
+
+    {
+        "title": "Instagram Bots",
+        "tags": ["Bot", "Solo"],
+        "desc": "Built a bot using the Selenium Webdriver to log into its account and complete a variety of tasks without getting flagged as a bot.",
+        "height": "200",
+        "tech": ["Selenium", "Python"]
+    },
+
+    {
+        "title": "Social Media for Seniors",
+        "tags": ["UI/UX", "Team"],
+        "desc": "As part of a college project, my team and I designed a social media mobile app for senior citizens. A lot of research was conducted in relation to social media and senior citizens and a senior citizen friendly UI/UX was created.",
+        "height": "270",
+        "tech": ["Balsamiq", "Wireframing"]
+    }
+
+
+]
